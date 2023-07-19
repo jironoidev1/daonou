@@ -25,7 +25,7 @@ let isAlive = setInterval(function () {
   );
 
   // detect collision
-  if (cactusLeft < 100 && cactusLeft > 0 && dinoTop >= 295) {
+  if (cactusLeft < 80 && cactusLeft > 0 && dinoTop >= 295) {
     // collision
     GOver();
   }
