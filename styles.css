@@ -47,7 +47,7 @@
   height: 60px;
   position: relative;
   top: 260px;
-  left: 600px;
+  left: 800px;
 
   background-image: url("img/cactus.png");
   background-size: 30px 60px;
@@ -57,10 +57,10 @@
 
 @keyframes block {
   0% {
-    left: 600px;
+    left: 800px;
   }
 
   100% {
-    left: -30px;
+    left: 0px;
   }
 }
