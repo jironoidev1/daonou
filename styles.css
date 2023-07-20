@@ -10,6 +10,7 @@
   width: 80px;
   height: 80px;
   background-image: url(img/trex.png);
+  background-size: 80px 80px;
   background-image: url(img/trex2.png);
   background-size: 80px 80px;
   position: relative;
